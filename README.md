@@ -81,3 +81,4 @@ Proje kapsamında yeni kelimeler kaydedip kendi makine öğrenmesi modelinizi e�
 ```bash
 .venv/bin/python -m unittest tests/test_modules.py
 ```
+Bu depo TÜBİTAK 2204-B kapsamında inceleme ve sergileme amaçlıdır; izinsiz ticari kullanım veya yeniden dağıtım yasaktır
